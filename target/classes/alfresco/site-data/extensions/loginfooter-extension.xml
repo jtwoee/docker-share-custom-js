@@ -1,0 +1,15 @@
+<extension>
+    <modules>
+        <module>
+            <id>Login Page Footer Customization</id>
+            <version>1.0</version>
+            <customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco.components.guest</targetPackageRoot>
+                    <sourcePackageRoot>customizeloginpagefooter</sourcePackageRoot>
+                </customization>
+            </customizations>
+            <auto-deploy>true</auto-deploy>
+        </module>
+    </modules>
+</extension>

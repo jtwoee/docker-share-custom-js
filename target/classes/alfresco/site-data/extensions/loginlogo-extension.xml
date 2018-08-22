@@ -1,0 +1,14 @@
+<extension>
+  <modules>
+    <module>
+      <id>Login Page Logo Customization</id>
+      <version>1.0</version>
+      <customizations>
+         <customization>
+            <targetPackageRoot>org.alfresco.components.head</targetPackageRoot>
+            <sourcePackageRoot>customizeloginlogo</sourcePackageRoot>
+         </customization>
+      </customizations>
+    </module>
+  </modules>
+</extension>

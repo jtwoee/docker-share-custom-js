@@ -1,0 +1,17 @@
+<extension>
+    <modules>
+        <module>
+            <id>Global Footer Module</id>
+            <version>1.0</version>
+            <customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco.components.footer</targetPackageRoot>
+                    <sourcePackageRoot>jsecm.components</sourcePackageRoot>
+                </customization>
+            </customizations>
+            <auto-deploy>true</auto-deploy>
+        </module>
+    </modules>
+</extension>
+
+
